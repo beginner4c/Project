@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\bin\Debug\24_XDrawer.exe.config
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\bin\Debug\24_XDrawer.exe
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\bin\Debug\24_XDrawer.pdb
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\24_XDrawer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\_24_XDrawer.FigureDialog.resources
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\_24_XDrawer.XDrawer.resources
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\_24_XDrawer.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\24_XDrawer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\24_XDrawer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\24_XDrawer.exe
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\24_XDrawer.pdb
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\_24_XDrawer.TreeForm.resources
+C:\Users\user\Desktop\C#_virtual\24_XDrawer\obj\Debug\_24_XDrawer.ListForm.resources
